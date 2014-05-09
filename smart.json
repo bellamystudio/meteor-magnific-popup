@@ -1,0 +1,8 @@
+{
+  "name": "magnific-popup",
+  "description": "Magnific Popup repackaged for Meteor",
+  "homepage": "https://github.com/bellamystudio/meteor-magnific-popup",
+  "author": "Dmitri Semenov <@dimsemenov> (https://github.com/dimsemenov/Magnific-Popup)",
+  "version": "0.9.9",
+  "git": "https://github.com/bellamystudio/meteor-magnific-popup.git"
+}
