@@ -1,0 +1,3 @@
+[submodule "lib/Magnific-Popup"]
+	path = lib/Magnific-Popup
+	url = https://github.com/dimsemenov/Magnific-Popup.git
